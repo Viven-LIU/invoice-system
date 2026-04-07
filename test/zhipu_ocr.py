@@ -3,7 +3,7 @@ import requests
 import json
 import sys
 
-API_KEY = "9ef184d1f91a45998113b2ca783f46e5.J17zin65bOIpLi5g"
+API_KEY = ""
 API_URL = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
 
 def ocr_with_zhipu(image_path: str) -> dict:
