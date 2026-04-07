@@ -19,7 +19,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 # 智谱 AI API 配置
-ZHIPU_API_KEY = "9ef184d1f91a45998113b2ca783f46e5.J17zin65bOIpLi5g"
+ZHIPU_API_KEY = ""
 ZHIPU_API_URL = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
 
 def allowed_file(filename):
