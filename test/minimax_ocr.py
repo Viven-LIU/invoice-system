@@ -3,7 +3,7 @@ import json
 import sys
 import base64
 
-MINIMAX_API_KEY = "sk-cp-jPD9uKMZ9qneQAGWRY8Wz4vLI2bf-rqwAyo5pDcRm4j4idvTtw-hLUU5fVA7ObGfkoJ6OvKDakYIBirHNGA2vsn4cs3qX_2bmYN2NfRMABn537Hv-Cie5sQ"
+MINIMAX_API_KEY = ""
 MINIMAX_API_URL = "https://api.minimax.chat/v1/text/chatcompletion_v2"
 
 # 用之前成功的 stock chart URL
